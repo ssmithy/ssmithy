@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ssmithy
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning Stuff
-- 📫 Say hello!
